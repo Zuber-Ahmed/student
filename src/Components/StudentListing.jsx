@@ -1,5 +1,7 @@
+//This is main project 
+
 import { useDispatch, useSelector } from "react-redux/es/exports";
-import React, { useEffect, useState } from "react";
+import React, {  useState } from "react";
 import { Box } from "@mui/system";
 import {
   Avatar,
